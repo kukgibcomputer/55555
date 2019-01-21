@@ -73,7 +73,7 @@ settings = {
     "timeline": False,
     "autoAdd": True,
     "autoJoin": False,
-    'autoCancel':{"on":True,"members":3},	
+    'autoCancel':{"on":True,"members":5},	
     "autoLeave": True,
     "autoRead": False,
     "leaveRoom": True,
