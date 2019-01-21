@@ -75,7 +75,7 @@ settings = {
     "autoJoin": False,
     'autoCancel':{"on":True,"members":5},	
     "autoLeave": True,
-    "autoRead": False,
+    "autoRead": True,
     "leaveRoom": True,
     "Respontag": True,
     "detectMention": True,
